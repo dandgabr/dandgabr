@@ -1,18 +1,21 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/RNdC.gif" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="100"/>
 </div>
 
-<!--
-**dandgabr/dandgabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dandga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/></a>
+  <a href="https://www.dan.seg.br/"><img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logoColor=white&style=social" alt="Website Badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=dandgabr&style=social&color=red" alt="visitor"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="body" align="justify">
+  <h1> :man_technologist: About Me </h1>
+  <p>
+    I'm security enginner from Brazil 🇧🇷
+    <ul>
+      <li> 📓 I am currently working as a security architecture at Boa Vista </li>
+      <li> 👨‍🎓 I love studing and discovery new skills </li>
+      <li> 📧 How to reach me use my <a href="https://www.linkedin.com/in/dandga/">Linkedin</a> </li>
+    </ul>
+  </p>
+</div>
