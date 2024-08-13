@@ -19,9 +19,3 @@
     </ul>
   </p>
 </div>
-
-<div id="stats" align="justify">
-  <h1> 🧮 Status </h1>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dandgabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandgabr&layout=default&langs_count=7&theme=dark"/>
-</div>
