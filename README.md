@@ -13,7 +13,7 @@
   <p>
     I'm security enginner from Brazil 🇧🇷
     <ul>
-      <li> 📓 I am currently working as a security architecture at Boa Vista </li>
+      <li> 📓 I am currently working as a security architecture at Dasa</li>
       <li> 👨‍🎓 I love studing and discovery new skills </li>
       <li> 📧 How to reach me use my <a href="https://www.linkedin.com/in/dandga/">Linkedin</a> </li>
     </ul>
