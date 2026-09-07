@@ -22,7 +22,6 @@
 
 - 🏛️ **Security Architecture & AppSec**: Threat modeling, DevSecOps pipelines, and security governance for large-scale enterprise infrastructures.
 - 🤖 **AI Safety & Hardening**: Containment frameworks, agentic workflows, and automated security hardening for AI developer tools.
-- ⚡ **Systems & Low-Level**: Grounded in engineering and systems programming (former University Professor in microcontrollers and algorithms), exploring memory analysis and reverse engineering.
 
 ---
 
