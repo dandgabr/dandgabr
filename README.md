@@ -70,48 +70,84 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/dandgabr/hardening-ia">🛡️ hardening-ia</a></h3>
+      <h3 align="center"><a href="https://github.com/dandgabr/elfvision">🖥️ Elfvision</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Focus-AI%20Security-red?style=flat-square" alt="Focus" />
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Focus-Linux%20Desktop-4B5563?style=flat-square&logo=linux&logoColor=white" alt="Linux desktop" />
+        <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
-      <p>Automated security hardening framework and scripts designed for AI-assisted development tools, sandboxing environments, and developer workspace security validation.</p>
+      <p>Monitors AI provider quotas, reset times and API spending from the Linux desktop, with a native GNOME Shell extension.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/dandgabr/skills">🧠 skills</a></h3>
+      <h3 align="center"><a href="https://github.com/dandgabr/Coacus">🧠 Coacus</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Agentic%20AI-purple?style=flat-square" alt="Focus" />
-        <img src="https://img.shields.io/badge/Ecosystem-Modular%20Skills-4F46E5?style=flat-square" alt="Ecosystem" />
+        <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Framework-6F42C1?style=flat-square" alt="AI agent framework" />
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
-      <p>A comprehensive, battle-tested repository of standardized skills and domain capabilities for AI coding agents and autonomous workflows.</p>
+      <p>A portable library of skills, agents, workflows and MCP declarations rendered for multiple AI coding harnesses.</p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/dandgabr/estilos-visuais">🎨 Estilos Visuais</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Interactive%20UI%20Gallery-0EA5E9?style=flat-square" alt="Interactive UI gallery" />
+        <img src="https://img.shields.io/badge/Language-CSS-663399?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+      </p>
+      <p>An interactive gallery for exploring and comparing interface styles by applying their design tokens to a live demo panel.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/dandgabr/treinamento-si">📚 treinamento-si</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Security%20Training-0F766E?style=flat-square" alt="Security training" />
+        <img src="https://img.shields.io/badge/Stack-TypeScript%20%2F%20React-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript and React" />
+      </p>
+      <p>A security management training proposal with structured learning material and a study application for desktop or browser.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/dandgabr/mcp-security-mitmproxy">🛡️ mcp-security-mitmproxy</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Protocol-MCP-059669?style=flat-square" alt="MCP" />
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p>An MCP server that exposes mitmproxy tools to AI agents for controlled interception, inspection and replay of network traffic.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/dandgabr/autodoc">🗺️ AutoDoc</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Protocol-MCP-059669?style=flat-square" alt="MCP" />
+        <img src="https://img.shields.io/badge/Language-Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+      </p>
+      <p>An MCP server for mapping codebases and producing architecture documentation for AI agent harnesses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/dandgabr/Valida-o-de-seguran-a-em-sistemas-Linux">🐧 Linux Security Assessment</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Audit-CIS%20%2F%20NIST%20%2F%20ISO-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux security assessment" />
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p>A Linux security assessment and compliance tool for collecting evidence, checking controls and supporting hardening.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/dandgabr/mcp-cheatengine">🧩 mcp-cheatengine</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Protocol-MCP-059669?style=flat-square" alt="MCP" />
-        <img src="https://img.shields.io/badge/Domain-Memory%20Analysis-orange?style=flat-square" alt="Memory" />
+        <img src="https://img.shields.io/badge/Domain-Memory%20Analysis-orange?style=flat-square" alt="Memory analysis" />
       </p>
-      <p>Model Context Protocol (MCP) server interface for Cheat Engine, bringing programmatic memory scanning, automation, and reverse engineering tools to AI assistants.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/dandgabr/Valida-o-de-seguran-a-em-sistemas-Linux">🐧 Linux Security Validator</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Audit-CIS%20Hardening-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <p>Automated scripts for security audit, baseline compliance, and permission checking across Linux workstations and server environments.</p>
+      <p>An MCP server connecting AI assistants to Cheat Engine for authorized process inspection and memory analysis.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center"><a href="https://github.com/dandgabr/gdg-polylux-theme">🎨 GDG Typst Presentation Theme & Community Talks</a></h3>
+      <h3 align="center"><a href="https://github.com/dandgabr/gdg-polylux-theme">🎨 gdg-polylux-theme</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Community-Google%20Developer%20Groups-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDG" />
-        <img src="https://img.shields.io/badge/Format-Typst%20%2F%20Polylux-239DAD?style=flat-square" alt="Typst" />
+        <img src="https://img.shields.io/badge/Format-Typst%20%2F%20Polylux-239DAD?style=flat-square" alt="Typst and Polylux" />
+        <img src="https://img.shields.io/badge/Community-Google%20Developer%20Groups-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Developer Groups" />
       </p>
-      <p align="center">Presentation deck templates designed for Typst using Polylux, inspired by Google Developer Groups visual identity, accompanied by technical talk materials including <a href="https://github.com/dandgabr/palestra-gdg-computacao-quantica"><b>Quantum Computing Fundamentals</b></a>.</p>
+      <p align="center">A reusable Typst presentation theme inspired by Google Developer Groups, with layouts, colors, typography and a sample deck.</p>
     </td>
   </tr>
 </table>
